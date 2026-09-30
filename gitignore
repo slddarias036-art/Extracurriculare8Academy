@@ -1,8 +1,0 @@
-# Protección de datos: NUNCA subir listas de estudiantes ni documentos con datos personales.
-*.xlsx
-*.xls
-*.csv
-*.docx
-*.pdf
-.DS_Store
-Thumbs.db
